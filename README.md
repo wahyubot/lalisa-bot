@@ -1,4 +1,4 @@
-# ridhobot
+# LalisaBot
 BOT WHATSAPP HP WAHYU BOT
 
 ### Alat dan Bahan
