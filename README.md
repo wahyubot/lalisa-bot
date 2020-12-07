@@ -17,8 +17,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/wahyubot/bot_whatsapp.git
-> cd bot_whatsapp
+> git clone https://github.com/wahyubot/lalisa-bot.git
+> cd lalisa-bot
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
