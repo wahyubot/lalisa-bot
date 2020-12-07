@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wahyubot/bot_whatsapp.git"
+    "url": "git+https://github.com/wahyubot/lalisa-bot.git"
   },
   "keywords": [
     "k"
@@ -37,7 +37,7 @@
   "author": "wahyubot",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wahyubot/bot_whatsapp/issues"
+    "url": "https://github.com/wahyubot/lalisa-bot/issues"
   },
-  "homepage": "https://github.com/wahyubot/bot_whatsapp#readme"
+  "homepage": "https://github.com/wahyubot/lalisa-bot#readme"
 }
