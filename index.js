@@ -33,7 +33,7 @@ const xp4 = require("./lib/xp4.js");
 const xp5 = require("./lib/xp5.js");
 const xp6 = require("./lib/xp6.js");
 const speed = require('performance-now');
-const sellernomor = require("./lib/intro.js");
+const intro = require("./lib/intro.js");
 const readTextInImage = require('./lib/ocr')
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
@@ -239,7 +239,7 @@ else if (text == 'linkgrup'){
 conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/' ,MessageType.text);
 }
 else if (text == 'sepi'){
-conn.sendMessage(id, 'Bakar rumah kak biar rame Hi' ,MessageType.text);
+conn.sendMessage(id, 'Bakar rumah kak biar rame' ,MessageType.text);
 }
 else if (text == '.tools2'){
 conn.sendMessage(id, ' *Menampilkan Fitur tools2!!!* ' ,MessageType.text);
